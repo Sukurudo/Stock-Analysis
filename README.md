@@ -9,6 +9,8 @@ We will create an automated way to analyze stock data and give generalized data.
 
 ### Output
 Ticker: Ticker IDentifier for a Given Stock
+
 Total Daily Volume: Number of shares traded over the course of a year
+
 Return: Percentage Increase or Decrease over the couse of the year
 
